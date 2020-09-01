@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/all.css">
+</head>
+
+<body>
+    <main class="main">
+        <section class="section" id="search-section">
+            <input type="search" id="search-bar" placeholder="Enter name of city"><i class="fa fa-search"
+                    id="search-icon"></i>
+        </section>
+        <section class="section" id="main-details">
+            <section class="section" id="weather-illustration-section"><i class="fa fa-cloud" id="weather-icon"></i>
+            </section>
+            <section class="section" id="temp-loc-section">
+               <div>
+                  <h1 id="temp">23</h1> 
+                  <p><span>&deg;</span><span>c</span></p>
+               </div> 
+                <p class="weather-condition">Heavy Thunderstorm</p>
+                <p id="location">LAGOS</p>
+                <p class="time">05 : 30 PM</p>
+            </section>
+        </section>
+
+        <section class="section" id="other-info-section">
+            <div class="other-info"><span>O</span>
+                <span>30</span>
+                <span>Lat</span>
+            </div>
+            <div class="other-info"><span>O</span>
+                <span>30</span>
+                <span>Long</span>
+            </div>
+            <div class="other-info"><span>O</span>
+                <span>30</span>
+                <span>Hum</span>
+            </div>
+            <div class="other-info"><span>O</span>
+                <span>30</span>
+                <span>Cloud</span>
+            </div>
+        </section>
+    </main>
+
+    <style>
+      
+    </style>
+    <script src="./main.js"></script>
+    <!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/7.19.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>
+</body>
+
+</html>
