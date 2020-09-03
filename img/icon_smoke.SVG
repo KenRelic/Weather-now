@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.969469in" height="0.542264in" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 0.046542 0.0260329"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id0">
+    <path d="M0.018008 0.0123856c0,0.00497409 -0.00403189,0.00900391 -0.0090041,0.00900391 -0.00497182,0 -0.00900391,-0.00402981 -0.00900391,-0.00900372 1.89007e-007,-0.0049722 0.00403189,-0.00900391 0.00900391,-0.00900391 0.0049722,-1.89007e-007 0.00900391,0.0040317 0.0090041,0.00900372z"/>
+   </clipPath>
+   <clipPath id="id1">
+    <path d="M0.0133186 0.017702c0,-0.00460043 0.00372967,-0.00832859 0.00833029,-0.00832859 0.00460061,0 0.00833066,0.00372816 0.00833066,0.00832877 0,0.00460061 -0.00373005,0.00833066 -0.00833066,0.00833066 -0.00460024,-1.89007e-007 -0.00833048,-0.00373005 -0.00833029,-0.00833085z"/>
+   </clipPath>
+   <clipPath id="id2">
+    <path d="M0.0393512 0.00838869c0,0.00386727 -0.00313638,0.00700346 -0.00700365,0.00700346 -0.00386746,0 -0.00700157,-0.00313619 -0.00700157,-0.00700346 0,-0.00386557 0.00313411,-0.00700157 0.00700157,-0.00700157 0.00386727,0 0.00700327,0.00313619 0.00700365,0.00700157z"/>
+   </clipPath>
+   <clipPath id="id3">
+    <path d="M0.034559 0.0132949c0,0.00331027 0.00268314,0.00599171 0.00599152,0.00599171 0.00331045,-1.89007e-007 0.00599152,-0.00268144 0.00599152,-0.00599171 1.89007e-007,-0.00330819 -0.00268125,-0.00599152 -0.00599152,-0.00599152 -0.00330838,-1.89007e-007 -0.00599171,0.00268333 -0.00599152,0.00599152z"/>
+   </clipPath>
+   <clipPath id="id4">
+    <path d="M0.0272595 0.00667648c0,0.00368752 -0.00298933,0.00667648 -0.00667667,0.00667648 -0.00368733,0 -0.00667648,-0.00298895 -0.00667648,-0.00667648 3.78014e-007,-0.00368752 0.00298895,-0.00667648 0.00667648,-0.00667648 0.00368752,0 0.00667648,0.00298914 0.00667667,0.00667648z"/>
+   </clipPath>
+   <clipPath id="id5">
+    <path d="M0.0279095 0.015336c0,-0.00330838 0.00268314,-0.00599171 0.00599152,-0.00599171 0.00331045,0 0.00599171,0.00268352 0.00599171,0.00599171 0,0.00331027 -0.00268144,0.00599171 -0.00599171,0.00599171 -0.00330819,-1.89007e-007 -0.00599152,-0.00268144 -0.00599152,-0.00599171z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(1 0 0 -1 -0.204033 -0.543286)" x="-0.484734" y="-0.718727" width="1.22021" height="0.630101" xlink:href="icon_smoke_Images\icon_smoke_ImgID1.png"/>
+  </g>
+  <g style="clip-path:url(#id1)">
+   <image transform="matrix(1 0 0 -1 -0.204033 -0.543286)" x="-0.484734" y="-0.718727" width="1.22021" height="0.630101" xlink:href="icon_smoke_Images\icon_smoke_ImgID2.png"/>
+  </g>
+  <g style="clip-path:url(#id2)">
+   <image transform="matrix(1 0 0 -1 -0.204033 -0.543286)" x="-0.484734" y="-0.718727" width="1.22021" height="0.630101" xlink:href="icon_smoke_Images\icon_smoke_ImgID3.png"/>
+  </g>
+  <g style="clip-path:url(#id3)">
+   <image transform="matrix(1 0 0 -1 -0.204033 -0.543286)" x="-0.484734" y="-0.718727" width="1.22021" height="0.630101" xlink:href="icon_smoke_Images\icon_smoke_ImgID4.png"/>
+  </g>
+  <g style="clip-path:url(#id4)">
+   <image transform="matrix(1 0 0 -1 -0.204033 -0.543286)" x="-0.484734" y="-0.718727" width="1.22021" height="0.630101" xlink:href="icon_smoke_Images\icon_smoke_ImgID5.png"/>
+  </g>
+  <g style="clip-path:url(#id5)">
+   <image transform="matrix(1 0 0 -1 -0.204033 -0.543286)" x="-0.484734" y="-0.718727" width="1.22021" height="0.630101" xlink:href="icon_smoke_Images\icon_smoke_ImgID6.png"/>
+  </g>
+ </g>
+</svg>

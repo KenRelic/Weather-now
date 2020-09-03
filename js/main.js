@@ -35,3 +35,6 @@ function hideSearchBar() {
     }
   }
 }
+
+
+//http://api.openweathermap.org/data/2.5/weather?q=port,fr&appid=c26a58507549b2bd7daaa1223c14fe3c
