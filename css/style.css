@@ -76,12 +76,14 @@ main {
 #search-bar {
     padding: 0.5em 0.5em 0.5em 1em;
     border-radius: 30px;
-    border: none;
     background-color: transparent;
-    color: #ffffff;
-    border: 1px solid #727272b3;
+    color: #ffffff;  
     outline: none;
-    width:220px;
+    /* width:220px; */
+    width: 0px;
+    padding: 0;
+    border: none;
+    /* display: none; */
     transition: all 0.3s ease;
 }
 
@@ -115,7 +117,7 @@ main {
 
 #weather-icon {
     position: absolute;
-    top: -1em;
+    top: -0.6em;
     left: calc(50% - 0.6em);
     animation: float 3s linear infinite;
 }
@@ -159,16 +161,16 @@ main {
 }
 
 @keyframes float {
-    30% {
-        top: -1.2em;
+    40% {
+        top: -.7em;
     }
 
-    70% {
-        top: -0.8em;
+    75% {
+        top: -.5em;
     }
 
     100% {
-        top: -1em;
+        top: -.6em;
     }
 }
 
